@@ -1,5 +1,6 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 📊 Retail Sales Dashboard
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🚀 Overview
 This project analyzes retail sales data to uncover key insights related to revenue, profit, customer segments, and regional performance.  
