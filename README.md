@@ -71,7 +71,7 @@ An interactive dashboard was built using **Power BI** to enable data-driven deci
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard(1).jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ---
 
